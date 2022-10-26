@@ -11,6 +11,7 @@ function Header(props) {
     )
 }
 
+// Adding proptypes ( for future reference)
 Header.propTypes = {
     text: PropTypes.string,
 }
