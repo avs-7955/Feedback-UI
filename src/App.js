@@ -4,7 +4,7 @@ import Header from "./components/Header"
 function App() {
     return (
         <>
-            <Header text="Happy World" />
+            <Header />
             <div className='container'>
                 <h1>Hello from the app component.</h1>
             </div>
