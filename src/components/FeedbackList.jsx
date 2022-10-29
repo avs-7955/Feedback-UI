@@ -14,7 +14,7 @@ function FeedbackList({ feedback }) {
     )
 }
 
-FeedbackList.PropTypes = {
+FeedbackList.propTypes = {
     feedback: PropTypes.array,
 }
 

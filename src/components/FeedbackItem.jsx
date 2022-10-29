@@ -14,7 +14,7 @@ function FeedbackItem({ item }) {
         </Card>
     )
 }
-FeedbackItem.PropTypes = {
+FeedbackItem.propTypes = {
     item: PropTypes.object.isRequired,
 }
 
