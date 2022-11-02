@@ -22,6 +22,7 @@ function FeedbackForm() {
 						value={text}
 					/>
 					<Button type='submit'>Send</Button>
+					{/* <button type='submit'>Send</button> */}
 				</div>
 			</form>
 		</Card>
