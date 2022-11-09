@@ -10,7 +10,7 @@ The average rating keeps on updating depending on the feedbacks.
  TechStack</h1>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/>
 </div>
 
 ## Screenshot
